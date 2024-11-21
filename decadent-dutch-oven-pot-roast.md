@@ -3,7 +3,7 @@
 >
 > Roast beef is a dish of beef which is roasted in an oven. Essentially prepared as a main meal, the leftovers can be and are often served within sandwiches and sometimes are used to make hash.
 
-# List of things to have
+# Ingredients
 - 2.5 lbs Beef Roast
 - 1 Onion
 - 2 cups Beef Broth
