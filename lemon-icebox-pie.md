@@ -1,5 +1,6 @@
 # Lemon icebox pie
-> ![myPie](https://github.com/virtualizebrief/cooking/blob/main/lemon-icebox-pie-01.png)
+> ![myPie](lemon-icebox-pie-01.png)
+> 
 > This old-fashioned dessert is fluffy, creamy, tangy, and refreshing.
 
 # Ingredients
