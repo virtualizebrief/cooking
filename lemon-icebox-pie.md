@@ -1,3 +1,4 @@
+> [!TIP]
 > This old-fashioned dessert is fluffy, creamy, tangy, and refreshing.
 
 # Ingredients
