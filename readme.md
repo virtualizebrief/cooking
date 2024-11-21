@@ -1,6 +1,6 @@
-# Cookie
-
-Place to find VB's greatest scripts when it comes to cooking.
+# Cooking
+> [!TIP]
+> More than computer scripts, also cooking scripts.
 
 # Recipes
 - [Decadent dutch oven pot roast](decadent-dutch-oven-pot-roast.md)
