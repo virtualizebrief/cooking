@@ -28,5 +28,5 @@ Add the browned onion back to the dutch oven (and some oil if needed) and mix to
 Cover and put in oven at 300 degree's for 4 hours. At the 4 hour mark remove dutch oven and add mushrooms. Continue to cook for 1 more hour. Pull from oven and enjoy with some mash potatoes.
 
 # References
-https://www.walmart.com/
-https://www.ers.usda.gov/topics/animal-products/cattle-beef/
+- https://www.walmart.com/
+- https://www.ers.usda.gov/topics/animal-products/cattle-beef/
