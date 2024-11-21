@@ -1,6 +1,6 @@
 > [!TIP]
 > This old-fashioned dessert is fluffy, creamy, tangy, and refreshing.
-> ![myPie](https://github.com/virtualizebrief/cooking/blob/main/lemon-icebox-pie-01.png){width: 200px;}
+> ![myPie](https://github.com/virtualizebrief/cooking/blob/main/lemon-icebox-pie-01.png) {width: 200px;}
 
 # Ingredients
 - Pie filling
