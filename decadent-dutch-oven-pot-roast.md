@@ -2,18 +2,18 @@
 > Roast beef is a dish of beef which is roasted in an oven. Essentially prepared as a main meal, the leftovers can be and are often served within sandwiches and sometimes are used to make hash.
 
 # List of things to have
-2.5 lbs Beef Roast
-1 Onion
-2 cups Beef Broth
-1 cup Red Wine
-1/3 cup Flour
-16 oz Tomatoes Diced
-8 oz Tomatoes Sauce
-Carrots
-Mushroom
-Fresh or Dried Garlic
-Beef Rub (any beef seasoning)
-Worcestershire sauce
+- 2.5 lbs Beef Roast
+- 1 Onion
+- 2 cups Beef Broth
+- 1 cup Red Wine
+- 1/3 cup Flour
+- 16 oz Tomatoes Diced
+- 8 oz Tomatoes Sauce
+- Carrots
+- Mushroom
+- Fresh or Dried Garlic
+- Beef Rub (any beef seasoning)
+- Worcestershire sauce
 
 # Prepare the sauce
 In a large mixing bowl pour in 1 cup beef broth and 1/3 cup flour. Wisk together, add another 1 cup of beef broth, wisk, add 1 cup red wine, wisk once more till smooth. Set to the side.
