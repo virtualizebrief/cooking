@@ -1,6 +1,8 @@
 > [!TIP]
 > This old-fashioned dessert is fluffy, creamy, tangy, and refreshing.
 
+<img align="left" width="100" height="100" src="https://github.com/virtualizebrief/cooking/blob/main/lemon-icebox-pie-01.png">
+
 # Ingredients
 - Pie filling
 - 14 ounce sweetened condensed milk
