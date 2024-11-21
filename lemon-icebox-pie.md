@@ -3,6 +3,9 @@
 > This old-fashioned dessert is fluffy, creamy, tangy, and refreshing.
 
 # Ingredients
+> [!NOTE] 
+> Currently using a premade crust. Once those are done will come up with a home made version.
+
 ### Pie filling
 - Pie filling
 - 14 ounce sweetened condensed milk
@@ -18,9 +21,6 @@
 - 3 tablespoons powdered sugar
 - 1/2 teaspoon vanilla extract
 - Pie crust
-
-> [!WARNING] 
-> Currently using a premade crust. Once those are done will come up with a home made version.
 
 # Cooking
 ### Pie filling
