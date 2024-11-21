@@ -1,5 +1,5 @@
 # Decadent dutch oven pot roast
-> ![alt text](decadent-dutch-oven-pot-roast-01.png))
+> ![alt text](decadent-dutch-oven-pot-roast-01.png)
 > Roast beef is a dish of beef which is roasted in an oven. Essentially prepared as a main meal, the leftovers can be and are often served within sandwiches and sometimes are used to make hash.
 
 # List of things to have
