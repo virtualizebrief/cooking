@@ -17,7 +17,7 @@
 - 1/2 teaspoon vanilla extract
 - Pie crust
 
-> [!NOTE] 
+> [!WARNING] 
 > Currently using a premade crust. Once those are done will come up with a home made version.
 
 # Cooking
