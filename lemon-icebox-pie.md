@@ -21,8 +21,8 @@
 > Currently using a premade crust. Once those are done will come up with a home made version.
 
 # Cooking
-## Pie filling
+### Pie filling
 Combine and whisk together by hand pie filling. Pour in pie crust and bake for 15-20 minutes at 350 degrees.
 
-## Whip cream
+### Whip cream
 Combine all in credits into mixer, run at low for a minute or two to mix up incredeints. Run at medium-high for three or so minutes until peeks are stiff and fluffy.
