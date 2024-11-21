@@ -1,6 +1,6 @@
 # Cookie
 
-Place to find VB's greatest scripts when it comes to cooking. #virtualcheif
+Place to find VB's greatest scripts when it comes to cooking.
 
 # Recipes
 - [Decadent dutch oven pot roast](decadent-dutch-oven-pot-roast.md)
